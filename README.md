@@ -9,4 +9,4 @@ Time = 2 years
 
 Simple Interest = 4
 
-This calculator helps you to get the Simple Interest for something that you want
+This calculator helps you to get the Simple Interest for something that you wan
